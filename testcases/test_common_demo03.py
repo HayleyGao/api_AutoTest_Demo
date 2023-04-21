@@ -9,7 +9,7 @@ class TestCommonDemo01:
     def test_02(self):
         assert common_demo01.func(3) != 5
 
-    @pytest.mark.xfail
+    @pytest.mark.xfail  # 将测试功能标记为预期失败
     def test_03(self):
         assert common_demo01.func(3) == 5
 
