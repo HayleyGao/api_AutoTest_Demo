@@ -43,4 +43,11 @@ pytest.main(['./testcases/test_common_demo03.py', "--html=./report/result/report
 https://pytest-html.readthedocs.io/en/latest/
 
 
+三、待处理
+参数化（或者数据驱动）的处理：fixture params参数
+共享文件/配置文件的处理：fixture、conftest.py
+日志文件的处理:logger
+
+
+
 
