@@ -10,6 +10,7 @@ pip3 install allure-pytest
 
 pytest中文文档
 https://www.osgeo.cn/pytest/contents.html#full-pytest-documentation
+pytest文档
 https://docs.pytest.org/en/6.2.x/contents.html
 
 allure官方文档
